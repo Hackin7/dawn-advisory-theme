@@ -3,8 +3,7 @@
     "description": "Dawn theme for Ghost, adapted for Advisory SG.",
     "version": "1.0.0",
     "engines": {
-        "ghost": ">=4.0.0",
-        "ghost-api": "v4",
+        "ghost": ">=5.0.0",
         "node": "16.x"
     },
     "license": "MIT",
@@ -100,16 +99,16 @@
         "zip": "gulp zip"
     },
     "devDependencies": {
-        "autoprefixer": "10.4.4",
+        "autoprefixer": "10.4.7",
         "cssnano": "5.1.7",
         "eslint": "^8.2.0",
-        "gscan": "4.26.1",
+        "gscan": "4.31.0",
         "gulp": "4.0.2",
         "gulp-livereload": "4.0.2",
         "gulp-postcss": "9.0.1",
         "gulp-zip": "5.1.0",
         "husky": "^7.0.4",
-        "postcss": "8.4.12",
+        "postcss": "8.4.14",
         "postcss-easy-import": "4.0.0",
         "prettier": "^2.4.1",
         "pretty-quick": "^3.1.2",
